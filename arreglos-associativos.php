@@ -7,7 +7,7 @@ $estudiantes = array(  // El metodo array() es para declarar un arreglo
     "apellido" => "Santos Rodriguez", //el valor puede ser de cualquier tipo
     "edad" => 20,
     "carrera" => "Ingenieria en Sistemas Computacionales",
-    "semestre" => 7,   
+    "semestre" => 7,
 );
 
 // una manera para imprimir un arreglo asociativo seria la siguiente

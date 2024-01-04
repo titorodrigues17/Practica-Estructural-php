@@ -1,6 +1,9 @@
 <?php
 /*
-    En PHP, una función es un bloque de código que se puede llamar desde cualquier parte de un programa para realizar una tarea específica. Las funciones permiten organizar y reutilizar el código, lo que facilita el desarrollo y el mantenimiento de aplicaciones web
+    En PHP, una función es un bloque de código que se puede llamar desde 
+    cualquier parte de un programa para realizar una tarea específica. Las 
+    funciones permiten organizar y reutilizar el código, lo que facilita el
+     desarrollo y el mantenimiento de aplicaciones web
 */
 
 

@@ -17,7 +17,7 @@
         echo "El cafe en cuestion cuesta $$price USD"."\n";
     }
 
-    echo "\n"
+    echo "\n";
 
     
 
